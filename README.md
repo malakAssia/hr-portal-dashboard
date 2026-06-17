@@ -1,7 +1,25 @@
-groupe g2 
+# HR Portal
 
-hr portail 
+Application web de gestion des ressources humaines développée dans le cadre d'un projet académique.
 
-  chgaga assia 
-  
-  elboukili malak
+## Fonctionnalités
+
+- Gestion des employés
+- Tableau de bord RH
+- Interface responsive
+- Suivi des indicateurs internes
+
+## Technologies utilisées
+
+- HTML
+- CSS
+- JavaScript
+
+## Équipe
+
+- Malak El Boukili
+- Assia Chgaga
+
+## Aperçu
+
+Projet réalisé dans le cadre du cycle ingénieur Informatique & Réseaux à l'EMSI.
